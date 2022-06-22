@@ -18,7 +18,7 @@ Code Challenge For Frontend Dev
 - Feel free to add features to stand out. E.g. You may add searching / filtering and sorting, pagination/dynamic content loading, localization features
 
 Your work will be assessed through the following criteria:
-- Code/folter organization
+- Code/folder organization
 - Code cleanliness (naming, indentations, spacings, consistencies)
 - Bonus points if you can demonstrate:
 -- Component unit-testing using Jest + React-Testing Library
