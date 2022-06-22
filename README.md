@@ -21,9 +21,10 @@ Your work will be assessed through the following criteria:
 - Code/folder organization
 - Code cleanliness (naming, indentations, spacings, consistencies)
 - Bonus points if you can demonstrate:
--- Component unit-testing using Jest + React-Testing Library
--- The use of React Context API and hooks
--- CSS Flexbox / CSS Grid
--- Typescript
+  - Component unit-testing using Jest + React-Testing Library
+  - The use of React Context API and hooks
+  - CSS Flexbox / CSS Grid
+  - Typescript
 
 When you are ready to submit, please send us your code repository and the live env url.
+Please send your work or any enquiries to villamora@angloeastern.com / velardeb@angloeastern.com
