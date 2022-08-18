@@ -12,7 +12,7 @@ Code Challenge For Frontend Dev
   "issueDate": string
 ]
 ```
-- Your API must be capable of the full CRUD operations needed to manage the data items.
+- Your API must be capable of the full CRUD operations needed to manage the data items, which, needless to say, should be implemented on the UI/client App.
 - Your application must be responsive.  Use the images in the /images folder as guide on how your page will look like in different devices.
 - Your application should be deployed in a live environment e.g. Heroku
 - Feel free to add features to stand out. E.g. You may add searching / filtering and sorting, pagination/dynamic content loading, localization features
