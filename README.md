@@ -1,4 +1,4 @@
-# frontend-code-challenge
+# Frontend Code Challenge
 Code Challenge For Frontend Dev
 
 - You may choose to do this project using a framework of your choice (e.g. NextJS Vite + ExpressJS/NestJS, etc).
@@ -29,4 +29,4 @@ Your work will be assessed through the following criteria:
   - Typescript
 
 When you are ready to submit, please send us your code repository and the live env url.
-Please send your work or any enquiries to villamora@angloeastern.com / velardeb@angloeastern.com
+
